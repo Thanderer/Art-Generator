@@ -1,4 +1,4 @@
-## Art Gen
+## Art Generator
 
 This project utilizes the VQGAN+CLIP image generation model, complemented by ESRGAN's upscaling capabilities, to create high-quality images. The VQGAN+CLIP image generation model is a powerful combination of two separate models that work together to create stunning images. VQGAN (Vector Quantized Generative Adversarial Network) is responsible for generating high-quality images by mapping a low-dimensional noise vector to an image space through the use of vector quantization. On the other hand, CLIP (Contrastive Language Image Pre-Training) provides a way to match the generated images with the original prompts or text descriptions used as input.
 
